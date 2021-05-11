@@ -13,6 +13,8 @@
 		E51CB0E7264795EC00BBEBE0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E51CB0E5264795EC00BBEBE0 /* Main.storyboard */; };
 		E51CB0E9264795EE00BBEBE0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E51CB0E8264795EE00BBEBE0 /* Assets.xcassets */; };
 		E51CB0EC264795EE00BBEBE0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E51CB0EA264795EE00BBEBE0 /* LaunchScreen.storyboard */; };
+		E51CB0F426480E9300BBEBE0 /* cat.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E51CB0F326480E9300BBEBE0 /* cat.jpeg */; };
+		E51CB0F626480EE000BBEBE0 /* catanddog.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E51CB0F526480EE000BBEBE0 /* catanddog.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		E51CB0E8264795EE00BBEBE0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E51CB0EB264795EE00BBEBE0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E51CB0ED264795EE00BBEBE0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E51CB0F326480E9300BBEBE0 /* cat.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cat.jpeg; sourceTree = "<group>"; };
+		E51CB0F526480EE000BBEBE0 /* catanddog.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = catanddog.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				E51CB0E1264795EC00BBEBE0 /* SceneDelegate.swift */,
 				E51CB0E3264795EC00BBEBE0 /* ViewController.swift */,
 				E51CB0E5264795EC00BBEBE0 /* Main.storyboard */,
+				E51CB0F326480E9300BBEBE0 /* cat.jpeg */,
+				E51CB0F526480EE000BBEBE0 /* catanddog.jpeg */,
 				E51CB0E8264795EE00BBEBE0 /* Assets.xcassets */,
 				E51CB0EA264795EE00BBEBE0 /* LaunchScreen.storyboard */,
 				E51CB0ED264795EE00BBEBE0 /* Info.plist */,
@@ -125,8 +131,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				E51CB0EC264795EE00BBEBE0 /* LaunchScreen.storyboard in Resources */,
+				E51CB0F426480E9300BBEBE0 /* cat.jpeg in Resources */,
 				E51CB0E9264795EE00BBEBE0 /* Assets.xcassets in Resources */,
 				E51CB0E7264795EC00BBEBE0 /* Main.storyboard in Resources */,
+				E51CB0F626480EE000BBEBE0 /* catanddog.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
